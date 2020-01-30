@@ -181,7 +181,7 @@ This creates a new branch in your GitHub Fork that is tracked by the local branc
 <script>
 var disqus_config = function () {
 this.page.url = 'https://github.tutorial.rclapp.com/lessons/lesson3.html';
-this.page.identifier = 'f02-03'; 
+this.page.identifier = 'a02-03'; 
 };
 (function() { 
 var d = document, s = d.createElement('script');
@@ -191,15 +191,3 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-
-
-
-
-
-
-
-
-
-
-

@@ -55,7 +55,7 @@ In this lesson, we will publish an project on Visual Studio to GitHub.
 <script>
 var disqus_config = function () {
 this.page.url = 'https://github.tutorial.rclapp.com/lessons/lesson1.html';
-this.page.identifier = 'f02-01'; 
+this.page.identifier = 'a02-01'; 
 };
 (function() { 
 var d = document, s = d.createElement('script');
@@ -65,5 +65,3 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-
