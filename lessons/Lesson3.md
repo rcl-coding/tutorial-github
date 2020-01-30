@@ -9,11 +9,11 @@ description: Collaborate on code on GitHub
 
 ****
 
-> This article is adopted from fireflyMigration
-
 # Collaborate on Code in GitHub
 
 In this lesson we will learn how to collaborate and contribute to code written in a team environment.
+
+> This article is adopted from fireflyMigration
 
 ## Create a Fork on GitHub
 

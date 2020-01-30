@@ -17,7 +17,7 @@ In this lesson, we will manage changes to our code.
 
 - In Visual Studio, make a change to your code :
 
-```csharp
+```java
 using System;
 
 namespace HelloWorld
